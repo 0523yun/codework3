@@ -1,0 +1,7 @@
+print('college')
+print('12')
+print('true')
+print('stu"de"nt')
+print("student")
+print("id")
+print("st'ude'nt")
